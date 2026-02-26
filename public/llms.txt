@@ -1,47 +1,58 @@
-# Business — Generative Engine Optimization Map
+# Calsite — Generative Engine Optimization Map
+
+> Create a website that has a bunch of free games that open in the website and add a proxy so the person can search anything in the website and nothing will be blocked
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://calsite.zappy5.app
 Jump into hundreds of free browser based games to play with friends instantly. No downloads, no blocks, just pure gaming fun. Start playing now at Calsite!
 
 ### Games
-https://example.com/games
+https://calsite.zappy5.app/games
 Discover the best free proxy server for gaming and access unlimited browser games. Play instantly without downloads or restrictions. Your ultimate game collection awaits!
 
 ### Proxy Portal
-https://example.com/proxy
+https://calsite.zappy5.app/proxy
 Browse anything freely with our secure proxy portal. Bypass blocks, access any content, and enjoy the best free proxy server for gaming without limitations or tracking.
 
 ### Contact
-https://example.com/contact
+https://calsite.zappy5.app/contact
 Need help or have game suggestions? Contact Calsite&#39;s team for quick support, feature requests, or partnership inquiries. We&#39;re here to enhance your gaming experience!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://calsite.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://calsite.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://calsite.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Calsite
+Create a website that has a bunch of free games that open in the website and add a proxy so the person can search anything in the website and nothing will be blocked
+
+## Target Audience
+- Teen Gamers with Proxy Needs
+- College Students Seeking Free Games
+
+## Industry
+entertainment/gaming
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://calsite.zappy5.app/sitemap.xml
+- **Robots.txt**: https://calsite.zappy5.app/robots.txt
